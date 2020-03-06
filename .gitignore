@@ -66,6 +66,10 @@ flycheck_*.el
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# IntelliJ
+.idea/
+*.iml
+
 # Package Files #
 *.jar
 *.war
